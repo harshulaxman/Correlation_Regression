@@ -1,4 +1,4 @@
-# DATE
+# DATE:
 # EXPNO:3 Correlation and regression for data analysis
 # Aim : 
 
@@ -56,7 +56,6 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
-
-# Result
-
 # Output 
+![image](https://github.com/harshulaxman/Correlation_Regression/assets/145686689/84ff9569-ee64-482d-b04e-95742c5628cc)
+
