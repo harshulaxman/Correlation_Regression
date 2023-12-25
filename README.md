@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 x=[ int(i) for i in input().split()]
 y=[ int(i) for i in input().split()]
 N=len(x)
-Sx=0
+Sx=0``
 Sy=0
 Sxy=0
 Sx2=0
@@ -62,6 +62,7 @@ plt.legend(['Regression Line','Data points'])
 
 # Output 
 ![image](https://github.com/harshulaxman/Correlation_Regression/assets/145686689/84ff9569-ee64-482d-b04e-95742c5628cc)
+
 
 # RESULT
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
