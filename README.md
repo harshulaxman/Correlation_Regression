@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 x=[ int(i) for i in input().split()]
 y=[ int(i) for i in input().split()]
 N=len(x)
-Sx=0``
+Sx=0
 Sy=0
 Sxy=0
 Sx2=0
